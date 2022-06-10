@@ -1,6 +1,7 @@
 # Comparar-numeros
 #include <iostream>
 using namespace std;
+  
 int main() {
 int numeroA,numeroB;
 cout << "Ingrese el numero a: ";
@@ -15,5 +16,4 @@ cout << "Numero a es mayor que b";}
 else
 if (numeroA == numeroB){
 cout << "Numero a es igual que numero b";}
-  
 }
